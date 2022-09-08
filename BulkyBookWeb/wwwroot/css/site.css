@@ -1,9 +1,20 @@
+* {
+    font-family: 'Inconsolata', monospace;
+}
+
+
+
 a.navbar-brand {
     white-space: normal;
     text-align: center;
     word-break: break-all;
 }
 
+
+.bookList{
+    display:flex;
+    justify-content:center;
+}
 
 
 .nav-pills .nav-link.active, .nav-pills .show > .nav-link {
